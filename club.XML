@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Club clubId="ACM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="club.xsd">
+	<Member id="_12345"
+      		clubs="ACM">
+		<Name>
+			<FirstName>WEB</FirstName>
+			<MiddleInitial>H</MiddleInitial>
+			<LastName>DO</LastName>
+		</Name>
+	</Member>
+	<Member id="_12345"
+      		clubs="ACM">
+		<Name>
+			<FirstName>hh</FirstName>
+			<email>anoire.kchaou@enicar.u-carthage.tn</email>
+			<MiddleInitial>H</MiddleInitial>
+			<LastName>dd</LastName>
+		</Name>
+	</Member>
+	<Member id="_12345"
+      		clubs="ACM">
+		<Name>
+			<FirstName>hh</FirstName>
+			<LastName>dd</LastName>
+		</Name>
+	</Member>
+</Club>
